@@ -5,10 +5,10 @@
 Deep-Retinal-Insights-Deep-learning-retinal-image-analysis-for-human-disease-prediction
 
 Team Members
-1.Team Leader Nusaif S.M  - IT21172328
-2.Thuvarahan T - IT21316654
-3.Rimnas R - IT21175770
-4.Sowkey A.A -  IT21386954
+Team Leader Nusaif S.M  - IT21172328 - it21172328@my.sliit.lk
+Member 1 Thuvarahan T - IT21316654 - it21316654@my.sliit.lk
+Member 2 Rimnas R - IT21175770 - it21175770@my.sliit.lk
+Member 3 Sowkey A.A -  IT21386954 - it21386954@my.sliit.lk
 
 
 Overview
@@ -28,4 +28,6 @@ The Deep Retinal Insights project is developed to:
   System Overview Diagram
 
 ![WhatsApp Image 2024-12-08 at 12 50 18_ebbe866b](https://github.com/user-attachments/assets/10e02510-6c9d-4191-9883-ac6db4f6a582)
+
+
 
