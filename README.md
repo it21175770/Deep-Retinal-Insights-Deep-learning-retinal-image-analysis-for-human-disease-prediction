@@ -5,10 +5,15 @@
 Deep-Retinal-Insights-Deep-learning-retinal-image-analysis-for-human-disease-prediction
 
 Team Members
+
 Team Leader Nusaif S.M  - IT21172328 - it21172328@my.sliit.lk
+
 Member 1 Thuvarahan T - IT21316654 - it21316654@my.sliit.lk
+
 Member 2 Rimnas R - IT21175770 - it21175770@my.sliit.lk
+
 Member 3 Sowkey A.A -  IT21386954 - it21386954@my.sliit.lk
+
 
 
 Overview
